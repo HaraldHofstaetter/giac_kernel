@@ -7,7 +7,7 @@ setup(name='giac_kernel',
       author_email='hofi@harald-hofstaetter.at',
       url='https://github.com/HaraldHofstaetter/giac_kernel',
       packages=['giac_kernel'],
-      scripts=['giac_kernel/install'],
+      scripts=['giac_kernel/install.py'],
       keywords=['jupyter', 'notebook', 'kernel', 'giac'],
       include_package_data=True
       )
